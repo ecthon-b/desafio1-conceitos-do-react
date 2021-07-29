@@ -1,5 +1,5 @@
 <div aligne="center">
-<img src="./public/todo.png" alt="Banner to.do" />
+<img src="./public/todo.PNG" alt="Banner to.do" />
 </div>
 
 <br>
